@@ -24,7 +24,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/openedx/frontend-component-header.git"
+    "url": "git+https://github.com/deepanshu2001-png/frontend-component-header.git#custom-header"
   },
   "author": "edX",
   "license": "AGPL-3.0",
