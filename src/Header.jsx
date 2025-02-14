@@ -57,6 +57,16 @@ const Header = ({
       href: `${config.LMS_BASE_URL}/dashboard`,
       content: intl.formatMessage(messages['header.links.courses']),
     },
+    {
+      type: 'item',
+      href: `https://www.symbtechnologies.com/about`,
+      content: 'About Us',
+    },
+    {
+      type: 'item',
+      href: `https://www.symbtechnologies.com/about`,
+      content: 'Contact Us',
+    },
   ];
   const defaultUserMenu = authenticatedUser === null ? [] : [{
     heading: '',
